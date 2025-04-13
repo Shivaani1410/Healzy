@@ -1,0 +1,859 @@
+{
+    "ESFP": {
+      "veryHappy": [
+        "Organize an impromptu dance party with friends",
+        "Go on a spontaneous photoshoot adventure",
+        "Call a friend with matching energy to plan something exciting",
+        "Record a fun dance video to your favorite upbeat song",
+        "Host a karaoke night with colorful decorations",
+        "Go to that amusement park you've been wanting to visit",
+        "Add a happy memory to your Comfort Box to revisit later",
+        "Share your contagious energy by volunteering at a community event",
+        "Create a playlist of songs that capture your current excitement"
+      ],
+      "happy": [
+        "Try that new café everyone's talking about",
+        "Add some extra color to your outfit today",
+        "Create a playlist that captures this feeling",
+        "Send a cheerful message to someone in your Future Me feature",
+        "Take a walk in a bustling part of town to people-watch",
+        "Plan a small gathering with close friends this weekend",
+        "Try a new recipe that looks fun and colorful",
+        "Film a short motivational clip for your Soul Up collection",
+        "Go window shopping and try on outfits that make you feel good"
+      ],
+      "neutral": [
+        "People-watch at a busy spot",
+        "Add spontaneity to your day with a new route",
+        "Catch up with friends who appreciate your charm",
+        "Browse through your Comfort Box for mood elevation",
+        "Listen to an upbeat Soul Up video to boost your energy",
+        "Experiment with a new hairstyle or makeup look",
+        "Visit a local market or fair to soak in the atmosphere",
+        "Try a new physical activity like rollerskating or dancing",
+        "Rearrange your living space to create a fresh environment"
+      ],
+      "sad": [
+        "Put on your favorite upbeat song",
+        "Call a friend who always makes you laugh",
+        "Surround yourself with colorful things",
+        "Look through happy memories in your Comfort Box",
+        "Watch motivational videos in your Soul Up collection",
+        "Get some sunshine and fresh air at a local park",
+        "Write a letter to your future self about the good things to come",
+        "Try a simple craft project with bright colors",
+        "Meet up with someone who can match your typically vibrant energy"
+      ],
+      "angry": [
+        "Channel your energy into a dance workout",
+        "Take a walk somewhere lively for people-watching",
+        "Belt out your favorite power song",
+        "Record your feelings for your Future Me to reflect on later",
+        "Watch one of your own Soul Up videos to shift your perspective",
+        "Go for a run or bike ride to release tension",
+        "Call a friend who can make you laugh even when upset",
+        "Visit a place with beautiful scenery to change your mood",
+        "Try a recreational sport that allows physical expression"
+      ]
+    },
+    "INTJ": {
+      "veryHappy": [
+        "Dive into that fascinating project you've been plotting",
+        "Map out that brilliant idea you mentioned",
+        "Explore a complex topic you've been curious about",
+        "Design a detailed plan for a future goal",
+        "Research cutting-edge developments in your field of interest",
+        "Start a strategic game that challenges your intellect",
+        "Write a thoughtful reflection for your Future Me",
+        "Create a systematic approach to organizing your knowledge",
+        "Develop a theoretical model around a concept that intrigues you"
+      ],
+      "happy": [
+        "Tackle an interesting puzzle you've been saving",
+        "Share an innovative idea with someone who appreciates your perspective",
+        "Make progress on your long-term vision",
+        "Add to your Comfort Box with meaningful achievements",
+        "Plan out an efficiency system for one of your regular activities",
+        "Read that thought-provoking book on your list",
+        "Create a strategic roadmap for a personal goal",
+        "Design a knowledge management system",
+        "Record insights for your Future Me about current progress"
+      ],
+      "neutral": [
+        "Evaluate how current projects align with your goals",
+        "Explore a new intellectual territory",
+        "Revisit that interesting theory you were developing",
+        "Review and categorize items in your Comfort Box",
+        "Watch an analytical Soul Up video for intellectual stimulation",
+        "Listen to a podcast on emerging technologies or theories",
+        "Refine your personal or professional systems",
+        "Research a topic that could give you a competitive advantage",
+        "Work on a complex problem that others find difficult"
+      ],
+      "sad": [
+        "Lose yourself in a complex book or documentary",
+        "Create a strategic plan for addressing what's bothering you",
+        "Journal to organize emotions into something meaningful",
+        "Look at accomplishments in your Comfort Box",
+        "Send an analytical message to your Future Me about lessons learned",
+        "Analyze patterns in what triggers these emotions",
+        "Redesign an inefficient system in your life",
+        "Create a decision tree for navigating similar situations",
+        "Watch a Soul Up video focused on logical problem-solving"
+      ],
+      "angry": [
+        "Channel intensity into tackling a complex challenge",
+        "Redirect energy into redesigning something inefficient",
+        "Sketch an improved system or solution",
+        "Analyze the root cause of your frustration systematically",
+        "Record strategic insights from this emotional state for Future Me",
+        "Create a flowchart mapping out solutions to what's frustrating you",
+        "Read about stoic philosophy or logical approaches to emotions",
+        "Design an experiment to test a theory related to your field",
+        "Develop contingency plans for similar situations in the future"
+      ]
+    },
+    "ENFP": {
+      "veryHappy": [
+        "Jot down all those brilliant ideas flooding your mind",
+        "Connect friends who haven't met yet",
+        "Start that creative project you've been dreaming about",
+        "Create an inspiring voice recording for your Future Me",
+        "Host an impromptu brainstorming session with creative friends",
+        "Start a blog or vlog capturing your unique perspective",
+        "Plan a themed gathering that brings diverse people together",
+        "Experiment with a new art form you've been curious about",
+        "Volunteer for a cause aligned with your values"
+      ],
+      "happy": [
+        "Explore somewhere new today",
+        "Connect with someone intriguing you want to know better",
+        "Channel energy into a meaningful cause you care about",
+        "Add inspirational quotes or ideas to your Comfort Box",
+        "Record a cheerful Soul Up video to revisit when needed",
+        "Write a short story or poem expressing your feelings",
+        "Research a topic that's caught your imagination",
+        "Reach out to reconnect with someone from your past",
+        "Plan a future trip to somewhere that inspires wonder"
+      ],
+      "neutral": [
+        "Try a small creative experiment just for fun",
+        "Explore a random topic that catches your interest",
+        "Daydream about exciting future possibilities",
+        "Look through your Comfort Box for creative inspiration",
+        "Send your Future Me thoughts about your current dreams",
+        "Visit a new neighborhood, bookstore, or café",
+        "Mix up your routine by trying something spontaneous",
+        "Have a deep conversation with someone who thinks differently",
+        "Create a vision board for ideas and inspirations"
+      ],
+      "sad": [
+        "Express feelings through free-writing or doodling",
+        "Connect with someone who appreciates your authentic self",
+        "Revisit something that reminds you of your core values",
+        "Watch an uplifting Soul Up video about possibility",
+        "Read through positive messages in your Comfort Box",
+        "Listen to music that validates your feelings then shifts them",
+        "Spend time in nature to gain perspective",
+        "Watch a film that reminds you of life's beautiful possibilities",
+        "Create something that expresses your current emotions"
+      ],
+      "angry": [
+        "Channel passion into writing about positive change",
+        "Transform energy into something meaningful",
+        "Brainstorm innovative approaches to what's bothering you",
+        "Record your passionate ideas for your Future Me",
+        "Create art that expresses your intense feelings",
+        "Go on an adventure to shift your perspective",
+        "Have a change-making brainstorm session",
+        "Write a fictional story where the protagonist overcomes similar obstacles",
+        "Watch Soul Up videos about turning frustration into positive action"
+      ]
+    },
+    "ISFJ": {
+      "veryHappy": [
+        "Create something special for someone you care about",
+        "Capture this feeling by taking photos or noting happy moments",
+        "Share warmth by spending time with someone who appreciates you",
+        "Add this joyful moment to your Comfort Box collection",
+        "Bake something delicious to share with neighbors or friends",
+        "Plant flowers or tend to your garden",
+        "Organize a small, intimate gathering with close friends",
+        "Write a heartfelt message to your Future Me",
+        "Create handmade gifts for upcoming occasions"
+      ],
+      "happy": [
+        "Bake something delicious to share with others",
+        "Add cozy touches to your space",
+        "Reach out to check on someone special",
+        "Record your peaceful state for your Future Me to remember",
+        "Create a photo album of cherished memories",
+        "Write thoughtful cards or notes to loved ones",
+        "Prepare a special meal using a family recipe",
+        "Visit an elderly relative or neighbor who would appreciate company",
+        "Organize a small area of your home that brings you joy"
+      ],
+      "neutral": [
+        "Look through cherished photos or mementos",
+        "Add something comforting to your surroundings",
+        "Connect with someone who might appreciate your listening ear",
+        "Review and organize your Comfort Box",
+        "Send a supportive message to your Future Me",
+        "Make a list of people to check in on soon",
+        "Knit, crochet or work on another practical craft",
+        "Create a care package for someone who needs encouragement",
+        "Try a new recipe that feels comforting and nurturing"
+      ],
+      "sad": [
+        "Wrap yourself in comfort - your favorite blanket and a soothing drink",
+        "Revisit photos or memories of happier times",
+        "Reach out to someone who makes you feel safe",
+        "Look through supportive notes in your Comfort Box",
+        "Watch a gentle Soul Up video about self-care",
+        "Make a list of small things you're grateful for",
+        "Listen to soothing music that brings comfort",
+        "Prepare your favorite comfort food",
+        "Spend time with a pet or watch animal videos"
+      ],
+      "angry": [
+        "Channel feelings into organizing a small space",
+        "Express feelings in your journal",
+        "Take a quiet walk in nature",
+        "Send your Future Me reflections on what you're learning",
+        "Sort through items to donate to those in need",
+        "Clean or organize something that needs attention",
+        "Make a cup of tea and sit in a peaceful spot",
+        "Look through your Comfort Box for perspective",
+        "Create a peaceful corner in your home as a retreat"
+      ]
+    },
+    "ENTP": {
+      "veryHappy": [
+        "Tackle that fascinating intellectual puzzle you've been saving",
+        "Start a lively debate or brainstorming session",
+        "Explore that unconventional approach you've been contemplating",
+        "Record your brilliant insights for your Future Me",
+        "Engage in a strategic game that challenges your mind",
+        "Research an obscure topic that's caught your interest",
+        "Test a controversial theory with someone intellectually stimulating",
+        "Design an experiment to test a hypothesis",
+        "Create a mind map connecting seemingly unrelated concepts"
+      ],
+      "happy": [
+        "Share entertaining observations with someone who appreciates your perspective",
+        "Experiment with connecting seemingly unrelated concepts",
+        "Explore a topic that challenges conventional thinking",
+        "Add clever insights to your Comfort Box collection",
+        "Record your current thoughts for Future Me to analyze later",
+        "Join an online forum debate about something controversial",
+        "Look for logical fallacies in popular arguments",
+        "Try a brainteaser or logic puzzle that stretches your mind",
+        "Engineer a creative solution to an everyday problem"
+      ],
+      "neutral": [
+        "Dive into something that makes you question assumptions",
+        "Play with thought experiments",
+        "Explore an unusual perspective on a familiar topic",
+        "Browse your Comfort Box for interesting thought patterns",
+        "Send your Future Me questions to ponder",
+        "Read about cognitive biases and identify them in daily life",
+        "Watch videos explaining complex or counterintuitive concepts",
+        "Analyze the structure of a system you interact with regularly",
+        "Start a thought-provoking conversation with someone new"
+      ],
+      "sad": [
+        "Analyze emotions from different angles",
+        "Look for unexpected silver linings or opportunities",
+        "Dive into a complex topic that fascinates you",
+        "Review analytical achievements in your Comfort Box",
+        "Send an exploratory message to your Future Me",
+        "Study philosophical perspectives on emotional states",
+        "Find the logical inconsistencies in your current negative thoughts",
+        "Debate ideas with a friend who can match your intellect",
+        "Watch a Soul Up video about reframing challenging situations"
+      ],
+      "angry": [
+        "Channel energy into writing a compelling argument",
+        "Engage in wordplay or create clever observations",
+        "Map out inconsistencies in what's bothering you",
+        "Record your passionate reasoning for Future Me",
+        "Analyze the logical structure of your frustration",
+        "Engage in a spirited debate about something unrelated",
+        "Research counterarguments to your current position",
+        "Create a satirical take on what's frustrating you",
+        "Watch Soul Up videos about turning arguments into innovations"
+      ]
+    },
+    "INFJ": {
+      "veryHappy": [
+        "Channel energy into a creative project aligned with your values",
+        "Write down insightful reflections flowing through your mind",
+        "Reach out to someone who needs your understanding",
+        "Create a meaningful entry for your Future Me",
+        "Work on artistic expression that represents your vision",
+        "Volunteer for a cause you deeply believe in",
+        "Start a journal about patterns you're noticing in life",
+        "Create a vision board for positive change",
+        "Record a Soul Up video about what inspires you"
+      ],
+      "happy": [
+        "Develop that meaningful idea you've been nurturing",
+        "Create something that expresses your vision",
+        "Connect with someone who appreciates your depth",
+        "Add a meaningful quote or insight to your Comfort Box",
+        "Write a letter to your Future Me about your current clarity",
+        "Listen to music that resonates with your inner world",
+        "Read poetry or literature that explores human experience",
+        "Research a social issue you're passionate about",
+        "Plan a small act of kindness that might have ripple effects"
+      ],
+      "neutral": [
+        "Explore a philosophical question on your mind",
+        "Spend time with inspiring content aligned with your values",
+        "Journal about patterns you've been noticing",
+        "Review meaningful items in your Comfort Box",
+        "Send your Future Me thoughts about your current path",
+        "Visit a peaceful place like a library, museum, or garden",
+        "Research a topic related to human potential or psychology",
+        "Create a symbolic piece of art expressing your current state",
+        "Listen to a podcast about social change or human connection"
+      ],
+      "sad": [
+        "Channel emotions into creating something meaningful",
+        "Find a quiet sanctuary to process emotions",
+        "Connect with art, music, or poetry that resonates",
+        "Look through supportive messages in your Comfort Box",
+        "Send a compassionate note to your Future Me",
+        "Journal about the deeper meaning behind your current feelings",
+        "Spend time in nature for perspective and healing",
+        "Read philosophical perspectives on suffering and growth",
+        "Watch a Soul Up video about emotional depth and resilience"
+      ],
+      "angry": [
+        "Transform intensity into writing that articulates changes you envision",
+        "Channel energy into planning constructive action",
+        "Envision and sketch an improved approach",
+        "Record your passionate insights for your Future Me",
+        "Create art expressing your vision for positive change",
+        "Research solutions to the systemic problems you've identified",
+        "Write about the ideal version of what's frustrating you",
+        "Listen to music that validates then transforms your feelings",
+        "Watch Soul Up videos about channeling passion into purpose"
+      ]
+    },
+    "ENTJ": {
+      "veryHappy": [
+        "Tackle that ambitious project you've been strategizing about",
+        "Organize a group initiative you've been contemplating",
+        "Make progress on your biggest goals",
+        "Record your strategic insights for your Future Me",
+        "Create a detailed plan for your next major achievement",
+        "Reach out to valuable connections for future collaboration",
+        "Develop a framework or system that optimizes efficiency",
+        "Analyze competitive advantages in your field of interest",
+        "Start a leadership project that leverages your strengths"
+      ],
+      "happy": [
+        "Reach out to that connection who could advance your vision",
+        "Map out your next big strategic move",
+        "Mentor someone who could benefit from your guidance",
+        "Add achievement milestones to your Comfort Box",
+        "Send strategic plans to your Future Me",
+        "Research efficiency improvements for your workflow",
+        "Organize a networking event or strategic meeting",
+        "Update your professional development plan",
+        "Read about successful leaders in your field of interest"
+      ],
+      "neutral": [
+        "Assess progress on goals and recalibrate if needed",
+        "Review systems for efficiency improvements",
+        "Connect with someone in your network who shares your outlook",
+        "Review your achievements in your Comfort Box",
+        "Send analytical observations to your Future Me",
+        "Create a priority matrix for your current projects",
+        "Listen to business or leadership podcasts",
+        "Develop contingency plans for upcoming challenges",
+        "Research emerging trends in areas of strategic importance"
+      ],
+      "sad": [
+        "Plan a new approach to what's challenging you",
+        "Create an action plan to address what's bothering you",
+        "Talk with someone who respects your strategic mind",
+        "Review past victories in your Comfort Box",
+        "Send your Future Me strategic lessons from this experience",
+        "Reorganize your workspace for maximum efficiency",
+        "Read about resilience in leadership contexts",
+        "Create a decision tree for navigating similar emotional situations",
+        "Watch a Soul Up video about strategic thinking under pressure"
+      ],
+      "angry": [
+        "Channel intensity into tackling a challenge requiring decisive action",
+        "Redirect energy into reorganizing something inefficient",
+        "Outline a strategic solution for what's triggering these feelings",
+        "Send your Future Me insights about maintaining control under pressure",
+        "Create a competitive analysis related to your current situation",
+        "Exercise intensely to clear your mind for strategic thinking",
+        "Research negotiation tactics relevant to your situation",
+        "Develop a power map of key stakeholders in your current challenge",
+        "Watch Soul Up videos about channeling intensity into leadership"
+      ]
+    },
+    
+    "INTP": {
+          "veryHappy": [
+            "Explore that fascinating theoretical concept you've been curious about",
+            "Dive into solving that complex problem you've been mulling over",
+            "Experiment with that unusual idea you've been contemplating",
+            "Record your brilliant insights for your Future Me to analyze later",
+            "Design a system that tests a theoretical framework you've developed",
+            "Research an obscure academic topic that's always intrigued you",
+            "Create a logical model to explain a complex phenomenon",
+            "Develop an algorithm to solve an interesting problem",
+            "Document your clearest thinking in your Comfort Box for future reference"
+          ],
+          "happy": [
+            "Investigate that interesting anomaly you noticed recently",
+            "Test a hypothesis you've developed but haven't had time to explore",
+            "Delve into a new theoretical territory connected to your interests",
+            "Add your clever insights to your Comfort Box collection",
+            "Send your Future Me an explanation of your current theoretical understanding",
+            "Analyze the logical structure of a system that interests you",
+            "Read about recent discoveries in fields that fascinate you",
+            "Solve a complex puzzle that requires your analytical mind",
+            "Create a thought experiment to explore a theoretical concept"
+          ],
+          "neutral": [
+            "Explore an unusual perspective on a topic you thought you understood",
+            "Conduct a thought experiment today",
+            "Dive into research on a niche topic that's caught your interest",
+            "Review your intellectual discoveries in your Comfort Box",
+            "Share with your Future Me a question you're currently contemplating",
+            "Watch videos on theoretical concepts that intrigue you",
+            "Categorize and organize your knowledge on a particular subject",
+            "Analyze the logical foundations of a commonly held belief",
+            "Explore connections between seemingly unrelated fields of knowledge"
+          ],
+          "sad": [
+            "Lose yourself in a complex puzzle requiring full concentration",
+            "Examine your feelings from different theoretical frameworks",
+            "Explore philosophical perspectives on what you're feeling",
+            "Look through your Comfort Box for logical solutions from the past",
+            "Send your Future Me an analysis of your current emotional state",
+            "Read about cognitive biases that might be affecting your perception",
+            "Watch Soul Up videos about logical approaches to emotional challenges",
+            "Create a mind map of factors contributing to your current state",
+            "Study the neuroscience behind the emotions you're experiencing"
+          ],
+          "angry": [
+            "Channel intensity into deconstructing what's causing these feelings",
+            "Redirect energy into troubleshooting a complex system",
+            "Map out the reasoning behind what's bothering you",
+            "Document your logical analysis for your Future Me",
+            "Create a systematic breakdown of the problem triggering your frustration",
+            "Design an experiment that tests assumptions related to your frustration",
+            "Research cognitive techniques for managing intense emotions",
+            "Analyze historical examples of similar problems and their solutions",
+            "Watch Soul Up videos about converting emotional energy into analytical clarity"
+          ]
+        },
+        "ISTJ": {
+          "veryHappy": [
+            "Tackle that detailed project you've been meaning to complete",
+            "Organize that space that's been on your mind",
+            "Make progress on that carefully planned goal",
+            "Document this productive energy in your Comfort Box",
+            "Create a detailed plan to share with your Future Me",
+            "Update your filing system or digital organization",
+            "Conduct a thorough review of your budget or finances",
+            "Start a precision-requiring project you've been planning",
+            "Create a checklist for an upcoming important responsibility"
+          ],
+          "happy": [
+            "Review and update something important needing careful attention",
+            "Perfect a skill you've been developing",
+            "Tackle that task you've been waiting for the right time to address",
+            "Add accomplished tasks to your Comfort Box for future motivation",
+            "Share methodical plans with your Future Me",
+            "Organize your digital files or physical paperwork",
+            "Create a systematic approach to a recurring task",
+            "Research practical improvements for your daily routine",
+            "Fix something that hasn't been working properly"
+          ],
+          "neutral": [
+            "Organize something to improve your daily efficiency",
+            "Review your calendar or plans",
+            "Attend to a practical matter needing careful attention",
+            "Check on your task lists in your Comfort Box",
+            "Send your Future Me some practical observations",
+            "Make progress on a methodical, long-term project",
+            "Update your to-do list and prioritize tasks",
+            "Research practical solutions to an ongoing challenge",
+            "Review instruction manuals for optimal use of your tools or devices"
+          ],
+          "sad": [
+            "Complete a small, manageable task for a sense of accomplishment",
+            "Organize something physical to create order",
+            "Create a step-by-step approach to addressing what's bothering you",
+            "Review reliable constants in your Comfort Box",
+            "Send a structured note to your Future Me about lessons learned",
+            "Clean or organize a small area of your home",
+            "Follow a familiar routine that provides comfort through predictability",
+            "Read practical advice on managing difficult emotions",
+            "Watch a Soul Up video about methodical approaches to emotional challenges"
+          ],
+          "angry": [
+            "Direct energy toward a task requiring careful attention to detail",
+            "Review and improve a system that's been inefficient",
+            "Outline a practical approach to fixing what's bothering you",
+            "Document clear observations for your Future Me",
+            "Create a detailed analysis of what triggered this reaction",
+            "Organize a space that's been cluttered or inefficient",
+            "Make a structured plan to address the source of frustration",
+            "Research factual information related to what's bothering you",
+            "Watch Soul Up videos about systematic problem-solving"
+          ]
+        },
+        "ESTJ": {
+          "veryHappy": [
+            "Tackle that organizational project you've been thinking about",
+            "Make progress on that structured plan you've been developing",
+            "Coordinate something that needs your talent for getting things done",
+            "Document successful strategies in your Comfort Box",
+            "Send your Future Me clear goals building on current momentum",
+            "Lead a team activity that leverages your organizational skills",
+            "Update and improve your productivity systems",
+            "Start a community improvement project",
+            "Create a structured plan for an upcoming challenge"
+          ],
+          "happy": [
+            "Organize that group activity needing clear direction",
+            "Implement that practical improvement you've been considering",
+            "Teach someone a valuable skill you've mastered",
+            "Add achievements to your Comfort Box for future reference",
+            "Share effective strategies with your Future Me",
+            "Review and update your schedule or calendar",
+            "Connect with someone who could benefit from your organizational skills",
+            "Optimize a process that could be more efficient",
+            "Research tools or methods to improve productivity"
+          ],
+          "neutral": [
+            "Assess your checklist and reprioritize if needed",
+            "Review procedures for efficiency",
+            "Connect with someone who might benefit from your organized approach",
+            "Review your structured notes in your Comfort Box",
+            "Send practical advice to your Future Me",
+            "Organize your physical or digital workspace",
+            "Update your contact list or network connections",
+            "Research best practices for something you regularly do",
+            "Create a contingency plan for an upcoming situation"
+          ],
+          "sad": [
+            "Organize something for a sense of control",
+            "Create a practical plan to address what's bothering you",
+            "Tackle a project with clear steps and visible results",
+            "Review past successes in your Comfort Box",
+            "Send structured reflections to your Future Me",
+            "Clean or organize an area that's been neglected",
+            "Complete a task with a clear beginning and end",
+            "Create a logical analysis of the current situation",
+            "Watch Soul Up videos about practical approaches to challenges"
+          ],
+          "angry": [
+            "Channel it into addressing a situation needing decisive action",
+            "Redirect energy into reorganizing something inefficient",
+            "Outline a practical solution for what's triggering these feelings",
+            "Document action steps for your Future Me",
+            "Create a clear plan to address the source of frustration",
+            "Exercise to release energy in a productive way",
+            "Make decisive improvements to something in your environment",
+            "Research effective solutions to similar problems",
+            "Watch Soul Up videos about channeling strong energy into leadership"
+          ]
+        },
+        "ESTP": {
+          "veryHappy": [
+            "Take on that exciting physical challenge you've been eyeing",
+            "Try something thrilling that tests your reflexes and problem-solving",
+            "Negotiate that deal or tackle that hands-on project",
+            "Capture this energetic moment for your Comfort Box",
+            "Record an action-oriented message for your Future Me",
+            "Compete in a sport or activity that showcases your skills",
+            "Fix something complex that others find difficult",
+            "Try an adventure sport or physical activity",
+            "Take apart and improve something mechanical"
+          ],
+          "happy": [
+            "Show off a skill or take a calculated risk",
+            "Fix or optimize something needing your talented hands",
+            "Engage in friendly competition or physical activity",
+            "Add practical accomplishments to your Comfort Box",
+            "Share tactical insights with your Future Me",
+            "Try that hands-on activity you've been wanting to explore",
+            "Go for a drive or ride somewhere new and exciting",
+            "Challenge yourself to learn a new physical skill quickly",
+            "Troubleshoot and fix something that's not working properly"
+          ],
+          "neutral": [
+            "Troubleshoot something not working efficiently",
+            "Tackle a hands-on challenge",
+            "Explore somewhere new that might offer opportunities",
+            "Review practical solutions in your Comfort Box",
+            "Send your Future Me some observations about current situations",
+            "Practice a skill that requires physical coordination",
+            "Seek out a new experience that gets your adrenaline going",
+            "Fix something around your home or workspace",
+            "Research equipment or tools that could improve your efficiency"
+          ],
+          "sad": [
+            "Focus on a concrete problem you can solve with your hands",
+            "Work on something mechanical for immediate results",
+            "Take a spontaneous drive to shift your energy",
+            "Look through action photos in your Comfort Box",
+            "Send a straight-talking message to your Future Me",
+            "Engage in physical activity to shift your mood",
+            "Work on a vehicle, computer, or other mechanical system",
+            "Visit a place with lots of activity and energy",
+            "Watch Soul Up videos about tactical approaches to challenges"
+          ],
+          "angry": [
+            "Channel it into a competitive activity or challenging workout",
+            "Redirect energy into a project requiring focus and physical skill",
+            "Tackle something that's broken or inefficient",
+            "Record these intense insights for your Future Me",
+            "Use this energy for intense physical training",
+            "Fix something that's been annoying you for a while",
+            "Go for a fast-paced run, ride, or drive",
+            "Engage in a sport that requires full physical commitment",
+            "Watch Soul Up videos about converting frustration into action"
+          ]
+        },
+        "ISFP": {
+          "veryHappy": [
+            "Express this wonderful energy through creating something beautiful",
+            "Capture this feeling through your favorite art form",
+            "Bring more beauty into your space or share your unique perspective",
+            "Add artistic expressions to your Comfort Box",
+            "Share your aesthetic vision with your Future Me",
+            "Photograph or draw scenes that capture your current feelings",
+            "Create music, art, or dance that expresses this joy",
+            "Spend time in nature appreciating its beauty",
+            "Style your space or yourself in a way that reflects your inner state"
+          ],
+          "happy": [
+            "Experiment with a new artistic technique or sensory experience",
+            "Spend time in nature or another beautiful environment",
+            "Express this feeling through your preferred creative outlet",
+            "Capture sensory pleasures for your Comfort Box",
+            "Share authentic reflections with your Future Me",
+            "Try a new recipe that appeals to your senses",
+            "Visit an art gallery, garden, or other aesthetically pleasing space",
+            "Create something handmade for someone you care about",
+            "Take photos that capture the beauty you see around you"
+          ],
+          "neutral": [
+            "Appreciate small beauties around you that others might miss",
+            "Explore somewhere that might inspire your senses",
+            "Spend time with plants, animals, or natural materials",
+            "Review artistic expressions in your Comfort Box",
+            "Send your authentic self a message for the Future Me",
+            "Try a new artistic medium or technique",
+            "Listen to music that resonates with your current mood",
+            "Go for a walk and notice sensory details others might miss",
+            "Rearrange a space to be more visually harmonious"
+          ],
+          "sad": [
+            "Surround yourself with colors, textures, or sounds that comfort",
+            "Express feelings through art or another authentic form",
+            "Spend time in a setting that feels calming and aligned",
+            "Look through meaningful mementos in your Comfort Box",
+            "Share your true feelings with your Future Me",
+            "Create art that authentically expresses your current emotions",
+            "Listen to music that validates your feelings",
+            "Spend time in nature or with animals for grounding",
+            "Watch Soul Up videos about finding beauty in melancholy moments"
+          ],
+          "angry": [
+            "Channel intensity into creating something expressive",
+            "Find a private space to explore emotions through your preferred medium",
+            "Take a break in a setting where you can be completely yourself",
+            "Review authentic expressions in your Comfort Box",
+            "Send your unfiltered thoughts to your Future Me",
+            "Create bold, expressive art that channels your feelings",
+            "Listen to music that matches then transforms your intensity",
+            "Go somewhere in nature where you can safely express yourself",
+            "Watch Soul Up videos about authentic expression of strong emotions"
+          ]
+        },
+        "INFP": {
+          "veryHappy": [
+            "Channel this beautiful energy into a creative project expressing values",
+            "Capture these thoughts in writing or another soul-speaking art form",
+            "Connect with someone who appreciates your authentic depth",
+            "Add inspirational thoughts to your Comfort Box",
+            "Share your idealistic vision with your Future Me",
+            "Write poetry or stories that express your inner world",
+            "Start a passion project aligned with your deeply held values",
+            "Create art that represents your ideal vision",
+            "Volunteer for a cause that touches your heart"
+          ],
+          "happy": [
+            "Develop that meaningful idea you've been nurturing",
+            "Explore nature or another setting that resonates with your values",
+            "Express this feeling through your preferred creative outlet",
+            "Collect meaningful symbols for your Comfort Box",
+            "Share hopeful reflections with your Future Me",
+            "Read poetry or literature that speaks to your soul",
+            "Listen to music that aligns with your inner harmony",
+            "Write in your journal about your hopes and dreams",
+            "Connect with a kindred spirit who understands your depth"
+          ],
+          "neutral": [
+            "Explore a book, film, or idea aligning with deeply held values",
+            "Spend time imagining possibilities",
+            "Journal about patterns or meanings you've been noticing",
+            "Review meaningful artifacts in your Comfort Box",
+            "Send philosophical musings to your Future Me",
+            "Create a fictional character based on someone interesting",
+            "Daydream constructively about ideal scenarios",
+            "Research a humanitarian cause you care about",
+            "Take a nature walk while contemplating life questions"
+          ],
+          "sad": [
+            "Express feelings through writing, art, or music",
+            "Find a quiet sanctuary to process emotions without judgment",
+            "Connect with art or stories that resonate with these feelings",
+            "Look through validating messages in your Comfort Box",
+            "Share your deeper reflections with your Future Me",
+            "Listen to music that honors emotional depth",
+            "Write poetry expressing your current emotional landscape",
+            "Watch films that validate the beauty of sensitivity",
+            "Watch Soul Up videos about finding meaning in difficult emotions"
+          ],
+          "angry": [
+            "Transform intensity into creative expression articulating values",
+            "Channel energy into writing or creating something meaningful",
+            "Imagine and sketch a world that better aligns with your values",
+            "Record passionate beliefs for your Future Me",
+            "Create art expressing your vision for how things should be",
+            "Write a story where the protagonist overcomes similar challenges",
+            "Listen to music that transforms frustration into determination",
+            "Research organizations working to address what's upsetting you",
+            "Watch Soul Up videos about channeling idealism into positive change"
+          ]
+        },
+        "ISTP": {
+          "veryHappy": [
+            "Tackle that hands-on project you've been thinking about",
+            "Troubleshoot that complex system or optimize something",
+            "Take apart and understand something you've been curious about",
+            "Document your technical insights in your Comfort Box",
+            "Record your problem-solving approach for your Future Me",
+            "Work on a vehicle, computer, or mechanical system",
+            "Try a tool or technique you've been wanting to test",
+            "Fix something requiring precision and technical skill",
+            "Build something functional from scratch or a kit"
+          ],
+          "happy": [
+            "Test out a new tool or technique",
+            "Fix something that's not working optimally",
+            "Spend time with that hands-on hobby",
+            "Add technical solutions to your Comfort Box",
+            "Share practical discoveries with your Future Me",
+            "Take apart and rebuild something to understand it better",
+            "Practice a skill requiring hand-eye coordination",
+            "Research an improved method for something you do regularly",
+            "Optimize a system in your home or workspace"
+          ],
+          "neutral": [
+            "Examine how something works that you've been curious about",
+            "Explore a practical skill",
+            "Tinker with that project that lets you work with your hands",
+            "Review technical solutions in your Comfort Box",
+            "Send practical observations to your Future Me",
+            "Research specifications for tools or equipment",
+            "Work on a precision-requiring hobby or project",
+            "Experiment with improving something's functionality",
+            "Take something apart to understand its mechanics"
+          ],
+          "sad": [
+            "Focus on fixing something simple for immediate results",
+            "Work on something mechanical requiring full concentration",
+            "Spend solo time with a hands-on project",
+            "Look through technical achievements in your Comfort Box",
+            "Send straightforward reflections to your Future Me",
+            "Fix something small that's been broken",
+            "Work on a vehicle or mechanical project",
+            "Take a solo ride or drive to clear your head",
+            "Watch Soul Up videos about tactical approaches to challenges"
+          ],
+          "angry": [
+            "Channel intensity into taking apart and fixing something complex",
+            "Redirect energy into a challenging project requiring precision",
+            "Tackle something broken or inefficient",
+            "Document technical solutions for your Future Me",
+            "Use physical energy for intensive mechanical work",
+            "Work on a complex repair requiring full focus",
+            "Exercise intensely to clear your mind",
+            "Find a problem others can't solve and fix it",
+            "Watch Soul Up videos about converting frustration into problem-solving"
+          ]
+        },
+        "ESFJ": {
+          "veryHappy": [
+            "Organize that gathering you've been thinking about",
+            "Reach out to several people who would appreciate your check-in",
+            "Create something special for someone you care about",
+            "Add memorabilia from social connections to your Comfort Box",
+            "Record this positive energy in a message to your Future Me",
+            "Plan a celebration for an upcoming occasion",
+            "Prepare treats or gifts to share with neighbors or colleagues",
+            "Start a community project that brings people together",
+            "Host a dinner party or gathering that connects different friends"
+          ],
+          "happy": [
+            "Bring together friends who might enjoy meeting each other",
+            "Make that recipe you've been saving to share",
+            "Arrange something that would bring comfort or joy to loved ones",
+            "Add photos of happy gatherings to your Comfort Box",
+            "Share warm thoughts with your Future Me",
+            "Send thoughtful messages to people you haven't connected with recently",
+            "Bake something delicious to share with friends or family",
+            "Plan a social event that brings people together",
+            "Create a care package for someone going through a challenge"
+          ],
+          "neutral": [
+            "Check in on someone who might appreciate your thoughtful attention",
+            "Add homey touches to your space",
+            "Send messages to people who might need encouragement",
+            "Organize social memories in your Comfort Box",
+            "Share caring observations with your Future Me",
+            "Organize a small get-together with close friends",
+            "Make a list of upcoming birthdays and special occasions",
+            "Prepare cards or small gifts for future events",
+            "Research recipes for an upcoming gathering"
+          ],
+          "sad": [
+            "Surround yourself with photos or mementos of happy times",
+            "Connect with that friend who's always been there for you",
+            "Spend time with a trusted friend or family member",
+            "Look through supportive messages in your Comfort Box",
+            "Send your caring self a gentle note via Future Me",
+            "Call someone who always makes you feel better",
+            "Make your favorite comfort food to share with someone close",
+            "Watch uplifting movies or shows about relationships",
+            "Watch Soul Up videos about nurturing yourself and others"
+          ],
+          "angry": [
+            "Channel feelings into organizing something",
+            "Focus on helping someone else to shift energy",
+            "Talk with someone who values your perspective",
+            "Review happy social moments in your Comfort Box",
+            "Send balanced reflections to your Future Me",
+            "Clean or organize a space to regain harmony",
+            "Plan a social gathering to focus on positive connections",
+            "Create an actionable solution to address the source of frustration",
+            "Watch Soul Up videos about maintaining harmony during challenges"
+          ]
+    }
+      
+  }
